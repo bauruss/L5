@@ -1,15 +1,17 @@
 /*started Header*/
 .head {
-	width: 1440px;
-	height: 50px;
+	width: 100%;
+	padding: 25px;
 	background: #F6F8F9;
 	position: fixed;
 	z-index: 100;
+	top: 0;
+	left: 0;
 }
 .li-1 {
 	display: inline-block;
 	color: #343638;
-	/*font-size: 11px;*/
+	font-size: 11px;
 }
 .li-2 {
 	display: inline-block;
@@ -48,8 +50,12 @@
 .section1 {
  	width: 1160px;
  	height: 410px;
- 	margin: 0px auto;
-
+ 	margin: 135px auto 0 auto;
+}
+.section1-h {
+	font-size: 24px;
+	color: #202124;
+	margin-bottom: 40px;
 }
 .s1-box1 {
 	display: inline-block;
@@ -67,13 +73,58 @@
 	width: 360px;
 	height: 350px;
 }
-.image-wraper {
+.image-wriper1 {
 	position: relative;
 }
 .img1 {
 	position: absolute;
-	top: 28px;
-	right: 40px;
+	top: 32px;
+	left: 40px;
 	font-size: 16px;
-	color: #FFFFFF;
+	color: #FFF;
+	z-index: 1;
 }
+.image-wriper2 {
+	position: relative;
+}
+.img2 {
+	position: absolute;
+	top: 32px;
+	left: 40px;
+	font-size: 16px;
+	color: #FFF;
+	z-index: 1;
+}
+.image-wriper3 {
+	position: relative;
+}
+.img3 {
+	position: absolute;
+	top: 32px;
+	left: 40px;
+	font-size: 16px;
+	color: #FFF;
+	z-index: 1;
+}
+.text-box1 {
+	vertical-align: middle;
+	margin-top: 70px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #A6ADB4;
+}
+.text-box2 {
+	vertical-align: middle;
+	margin-top: 70px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #A6ADB4;
+}
+.text-box3 {
+	vertical-align: middle;
+	margin-top: 70px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #A6ADB4;
+}
+
