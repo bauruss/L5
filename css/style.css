@@ -1,0 +1,45 @@
+/*started Header*/
+.head {
+	width: 1440px;
+	height: 50px;
+	background: #F6F8F9;
+	position: fixed;
+	z-index: 100;
+}
+.li-1 {
+	display: inline-block;
+	color: #343638;
+	font-size: 11px;
+}
+.li-2 {
+	display: inline-block;
+	margin: 19px 22px 19px 27px;
+	font-size: 11px;
+	color: #343638;
+}
+.li-3 {
+	display: inline-block;
+	color: #343638;
+	font-size: 11px;
+}
+.li-4 {
+	display: inline-block;
+	color: #343638;
+	font-size: 11px;
+	margin: 20px 40px 18px 22px;
+}
+.li-5 {
+	display: inline-block;
+	color: #343638;
+	font-size: 11px;
+	margin: 11px;
+}
+.header-logo {
+	display: inline-block;
+	margin: 18px 92px 17px 20px;
+	font-size: 13px;
+	color: #FA6980;
+}
+.nav1 {
+	display: inline-block;
+}
