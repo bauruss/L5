@@ -9,7 +9,7 @@
 .li-1 {
 	display: inline-block;
 	color: #343638;
-	font-size: 11px;
+	/*font-size: 11px;*/
 }
 .li-2 {
 	display: inline-block;
@@ -42,4 +42,38 @@
 }
 .nav1 {
 	display: inline-block;
+}
+
+/*started first section*/
+.section1 {
+ 	width: 1160px;
+ 	height: 410px;
+ 	margin: 0px auto;
+
+}
+.s1-box1 {
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+}
+.s1-box2 {
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	margin: 0 40px;
+}
+.s1-box3 {
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+}
+.image-wraper {
+	position: relative;
+}
+.img1 {
+	position: absolute;
+	top: 28px;
+	right: 40px;
+	font-size: 16px;
+	color: #FFFFFF;
 }
