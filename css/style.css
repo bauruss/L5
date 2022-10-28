@@ -128,3 +128,54 @@
 	color: #A6ADB4;
 }
 
+/*started section two*/
+.section2 {
+	width: 1160px;
+	height: 960Px;
+	margin: 58px auto;
+}
+.image-box {
+	position: relative;
+	width: 760px;
+	height: 430px;
+	margin-bottom: 40px;
+}
+.text-div1 {
+	position: absolute;
+	font-size: 16px;
+	top: 194px;
+	left: 308px;
+	color: #FFF;
+	z-index: 1;
+}
+.section1-h2 {
+	font-size: 24px;
+	color: #202124;
+	margin-bottom: 40px;
+}
+.s2-div1 {
+	display: inline-block;
+	width: 760px;
+	height: 890px;
+}
+.s2-general1 {
+	display: inline-block;
+}
+.s2-general2 {
+	display: inline-block;
+	width: 360px;
+	height: 890px;
+	margin-left: 40px;
+}
+.imagediv1 {
+	display: inline-block;
+	margin-bottom: 102px;
+}
+.imagediv2 {
+	display: inline-block;
+	margin-bottom: 102px;
+}
+.imagediv3 {
+	display: inline-block;
+    padding-bottom: 60px;
+}
